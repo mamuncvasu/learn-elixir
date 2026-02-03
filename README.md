@@ -1,4 +1,6 @@
 # Elixir Learning 
 
-> Friends - Ecto Tutorial Practice
+## Elixir Basics
+
+## Ecto Tutorial Practice - Friends 
 
