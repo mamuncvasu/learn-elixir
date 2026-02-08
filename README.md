@@ -1,5 +1,3 @@
-# Elixir Learning 
-
 ## Elixir Basics
 
 ## Ecto Getting Started Practice all
