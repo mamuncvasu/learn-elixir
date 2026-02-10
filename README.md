@@ -170,6 +170,4 @@
     # This creates a new Person struct with default nil values:
     person = %Friends.Person{}
 
-# Phoenix Project "pento" > "tate"
-
-|> mix phx.new pento
+# Phoenix Project "pento" > "tate" > "pento" folder
