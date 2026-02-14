@@ -38,3 +38,7 @@
               """
             end
           end
+ ## Handle events
+ 
+    |> Place link:
+        <.link href="#" phx-click="guess" phx-value-number="1">1</.link>
